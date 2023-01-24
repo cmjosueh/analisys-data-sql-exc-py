@@ -1,78 +1,143 @@
-A
-Array: Formación.
+                                A
+ADAL (Active Directory Autentication Library) 
 
+API de REST: Protocolos HTTP/HTTPS: los cuales son SAML, WS-Federation y OpenID Connect para la autenticación 
 
-B
+                                B
 Billing: facturación.
+(BYOK) Bring Your Own Key.
+BCDR (Business Continuity and Disaster Recovery) 
 
-C
+                                C
 (CI/CD) Continuous Integration and Continuous Delivey: Integración Continua y Entrega Continua.
- 
-D
-Develop: Desarrollar
-E
-Entails: implica
+(CIS) Center for internet Security. Centro para la seguridad de internet
 
-F
-Fast:
 
-G 
-Goals: Metas.
+                                D
+(DEK) Data Encryption Key
 
-H
-Host: anfitrion.
+                                E
+(ECC): es la abreviatura de criptografía de curva elíptica, es un método de criptografía asimétrica, o también conocida como clave pública, y está basada en el uso de curvas elípticas.
+El tamaño de las claves en comparación con la resistencia criptográfica, es la diferencia más importante entre ECC y el RSA que todos conocemos. 
+ECC ofrece la misma seguridad criptográfica que el sistema RSA, pero con claves mucho más pequeñas.
+Una clave ECC de 256 bits equivale a una clave RSA de 3072 bits, por tanto, son muchos más pequeñas.
 
-I
+
+                                F
+
+
+                                G 
+
+
+                                H
+HDD (Hard Drive Disk): 
+HSM: hardware Security Module.
+Hash: es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija. Independientemente
+Hash Sync: 
+
+                                I
 Ip: internet Protocol
 
-J
-Journey: viaje
+                                J
+JSON Web Key (JWK): JWT (JSON Web Token) es un estándar qué está dentro del documento RFC 7519. 
+En el mismo se define un mecanismo para poder propagar entre dos partes, y de forma segura, la identidad de un determinado usuario, además con una serie de claims o privilegios.
+Estos privilegios están codificados en objetos de tipo JSON, que se incrustan dentro de del payload o cuerpo de un mensaje que va firmado digitalmente.
 
-K
-Know: Saber
-Keep: Mantenerse.
-Kind: Tipo.
-Knife: Cuchillo.
+Just In Time (JIT)
+Just Enough Access (JEA)
 
-L
-Let: permite.
+                                K
+Kerberos protocol: Kerberos es un protocolo de autenticación de red. 
+Está diseñado para proporcionar una autenticación sólida para las aplicaciones cliente/servidor mediante el uso de criptografía de clave secreta.
+
+
+
+                                L
+LDAP (Lightweight Directory Access Protocol) o (Protocolo Ligero de Acceso a Directorio):
+Se trata de un conjunto de protocolos de licencia abierta que son utilizados para acceder a la información que está almacenada de forma centralizada en una red.
+Este protocolo se utiliza a nivel de aplicación para acceder a los servicios de directorio remoto.
+El protocolo LDAP es muy utilizado actualmente por empresa que apuestan por el software libre,
+al utilizar distribuciones de Linux para ejercer las funciones propias de un directorio activo en el que se gestionarán las credenciales y permisos de los trabajadores 
+y estaciones de trabajo en redes LAN corporativas en conexiones cliente/servidor.
  
 
-M
-Make: fabricar.
-N
-Neighbour: vesino.
-
-Ñ
-O
-Own: propio.
+                                M
+MFA (MultiFaction Autentication):
 
 
-P
-Pick: Elegir.
+                                N
+(NIST) National Institute of Standards and Technology: Instituto Nacional de Estandares y Tecnología 
 
-Q
-Queries: consultas.
-R
-Racks: bastidores
-
-S
-(SSD): 
-
-T
-Tournament: torneo.
+NTLM Protocol: NTLM consiste en una serie de protocolos de autenticación del desarrollador de software Microsoft.
+Al principio, solo se utilizaba como protocolo propietario, 
+aunque ahora la autenticación NTLM (en inglés, NTLM authentication) también está disponible para otros sistemas además de Windows. 
+NT LAN Manager permite que diferentes ordenadores y servidores se verifiquen entre sí
+Una de las prioridades de la mayoría de las redes es evitar el acceso de participantes no autorizados, por lo que deben implementar un procedimiento de verificación:
+el cliente solo puede entrar en la red o utilizar sus servicios si ha sido autorizado.
+El protocolo NTLM estipula que el cliente se autentique con un nombre de usuario y la contraseña correspondiente.
+Para ello, se genera un intercambio entre el dispositivo del usuario y un servidor.
 
 
 
-U
-Unknown: desconocido.
+                                Ñ
 
-V
-W
-Wake: despertar.
+                                
+                                O
 
-X
-Y
-yet: aún 
-Z
+
+
+                                P
+Pass-through Authentication Seamless SSO:
+
+
+                                Q
+
+
+                                R
+(RDP): Remote Desktop Protocol: Protocolo de Escritorio Remoto
+(RSA): El RSA es un algoritmo de cifrado de clave pública que desarrollaron en el año 1979 Ron Rivest, Adi Shamir y Leonard Adleman.
+El RSA es un sistema criptográfico que permite enviar mensajes cifrados sin tener que intercambiar una clave privada y es el más utilizado para este fin.
+También permite realizar firmas digitales y es un sistema que se basa en un problema matemático llamado «factorización de números enteros». 
+
+
+
+                                S
+(SSD): Solid State Drive.
+SDL: Secure Development Lifecicle.
+(SMB): Server Message Block.
+(SAS) Share Access Signatures:
+SQL Databace Dynamic data masking (DDM)
+(SIEM) Security Information and Event Management: 
+(SOAR) Security Orchestration Automated Response: Respuesta Automatizada de Orquestación de Seguridad.
+SecOps Security Ops: 
+(SSO): Single Sing Object Acceso de inicio de sesión único. 
+Seamless SSO:
+
+
+                                T
+(TDE) Transparent Data Encryption 
+
+
+
+                                U
+(URI):
+
+                                
+                                V
+Virtual networks (redes virtuales):están formadas por subredes. 
+una subred es un rango de direcciones IP dentro de su red virtual.
+
+
+                                W
+
+
+                                
+                                X
+
+
+
+                                Y
+
+
+                                Z
 
