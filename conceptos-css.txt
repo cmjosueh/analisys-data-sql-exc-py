@@ -133,7 +133,11 @@ una subred es un rango de direcciones IP dentro de su red virtual.
 
                                 
                                 X
-
+XOR cifrado: es un tipo de encriptacion que se basa en el uso de 
+puertas logicas XOR para codificar y verificar la autenticidad de los 
+datos. Es una operacion al igual que la suma o la multiplicacion, pero 
+que funciona con bits, es decir, un sistema binario de unos(1) y ceros(0).
+esta operacion se utiliza en casi todos los algoritmos criptograficos.
 
 
                                 Y
