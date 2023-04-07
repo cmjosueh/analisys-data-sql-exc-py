@@ -1,0 +1,5 @@
+comando para encontrar páginas potencialmente ocultas en un sitio web
+  gobuster -u http://fakebank.com -w wordlist.txt dir
+donde:
+-u se usa para indicar el sitio web que estamos escaneando
+-w toma una lista de palabras para iterar y encontrar páginas ocultas.
